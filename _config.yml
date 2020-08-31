@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeonghwan Lee"
+title                    : "Jeonghwan (Brian) Lee"
 title_separator          : "-"
-name                     : &name "Jeonghwan Lee"
+name                     : &name "Jeonghwan (Brian) Lee"
 description              : &description "A Prospective Applied Mathematician/Statistician"
 url                      : https://brianlee97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeonghwan Lee"
+  name             : "Jeonghwan (Brian) Lee"
   avatar           : "JHL.jpg"
   bio              : "A Senior Undergraudate Stduent at KAIST MathSci. A Prospective Applied Mathematician/Statistician."
   location         : "Daejeon, Republic of Korea"
