@@ -13,12 +13,8 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Sciences (B.S.), Korea Advanced Institute of Science and Technology, 2015.03 - 2022.02 (Expected).
-- Major: Mathematical Sciences.
-- Enrolled in Honor Program.
-- Cumulative GPA: Overall 4.08/4.3, Major 4.20/4.3.
+* Bachelor of Sciences(B.S.) in Mathematical Sciences, Korea Advanced Institute of Science and Technology(https://www.kaist.ac.kr/en/), 2015.03 - 2022.02 (Expected).
 * Gyeongnam Science High School, 2013~2015.
-- Early Graduation with Honor.
 
 
 Work experience
