@@ -13,9 +13,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematical Sciences, [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/), 2015.03 - 2022.02 (Expected).
-* Gyeongnam Science High School, 2013~2015.
+* B.S. in Mathematical Sciences, [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/), 2015.03~2022.02 (Expected).
+* Gyeongnam Science High School, 2013.03~2015.02.
 
+Selected Awards & Honors
+======
 
 Work experience
 ======
