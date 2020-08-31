@@ -13,9 +13,9 @@ author_profile: true
 
 **Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE**, submitted. ([arxiv](https://arxiv.org/abs/2003.10038))  
 
-- Submitted to the IEEE Journal on Selected Areas in Information Theory(JSAIT), May.2020.
-
 <ins>Jeonghwan Lee</ins>, Daesung Kim and Hye Won Chung.
+
+- Submitted to the IEEE Journal on Selected Areas in Information Theory (JSAIT), May 2020.
 
 <!--
 {% for post in site.publications reversed %}
