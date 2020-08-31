@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{Jeonghwan Lee}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=s9LzirIAAAAJ&hl=ko}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-**Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE**, submitted. ([arxiv](https://arxiv.org/abs/2003.10038))  
+1. **Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE**, submitted. ([arxiv](https://arxiv.org/abs/2003.10038))  
 
-Jeonghwan Lee, Daesung Kim and Hye Won Chung.
+<ins>Jeonghwan Lee<ins/>, Daesung Kim and Hye Won Chung.
 
 <!--
 {% for post in site.publications reversed %}
