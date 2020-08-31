@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the Complete CV]()
+[Download the Complete CV](/files/CV_Brian.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Sciences (B.S.), Korea Advanced Institute of Science and Technology, 2015.03 - 2022.02 (Expected).
+- Major: Mathematical Sciences.
+- Enrolled in Honor Program.
+- Cumulative GPA: Overall 4.08/4.3, Major 4.20/4.3.
+* Gyeongnam Science High School, 2013~2015.
+- Early Graduation with Honor.
+
 
 Work experience
 ======
