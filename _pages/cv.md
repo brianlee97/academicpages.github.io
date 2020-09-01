@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-[Download My Complete CV](/files/CV_Brian.pdf)
+[Download Complete CV](/files/CV_Brian.pdf)
 
 Education
 ======
-* B.S. in Mathematical Sciences, [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/), 2015.03~2022.02 (Expected).
-* Gyeongnam Science High School, 2013.03~2015.02.
+* B.S. in Mathematical Sciences, [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/), 2015.03 ~ Present.
+  * Advisor: Prof. [Mikyoung Lim](https://www.mikyounglim.net/home).
+  * Enrolled in Honor Program.
+  * Temporarily left school due to mandatory military service, 2018.10 ~ 2020.08.
+* Gyeongnam Science High School, 2013.03 ~ 2015.02.
 
 Selected Awards & Honors
 ======
