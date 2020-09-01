@@ -18,7 +18,8 @@ Education
   * Enrolled in Honor Program.
   * Temporarily left school due to mandatory military service, 2018.10 ~ 2020.08.
 * Gyeongnam Science High School, 2013.03 ~ 2015.02.
-
+  * Early Graduation with Honor.
+  
 Selected Awards & Honors
 ======
 
@@ -28,11 +29,6 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
