@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Complete CV](/files/CV_Brian.pdf)
+[Complete CV](/files/CV_Brian.pdf)
 
 Education
 ======
@@ -22,6 +22,16 @@ Education
   
 Selected Awards & Honors
 ======
+* Excellence Award, KAIST Math Problem Of the Week, 2019.06.
+  * Department of Mathematical Sciences at KAIST.
+* Silver Prize (for majors), 36th National Undergraduate Mathematics Competition, 2017.12.
+  * Korean Mathematical Society.
+* Dean's List, 2017.09.
+   * College of Natural Sciences at KAIST.
+* National Excellence Scholarship (Natural Sciences and Engineering), 2017.03 ~ Present.
+   * Korea Student Aid Foundation.
+* Department Honor Scholarship ($1,000), 2017.03.
+   * Department of Mathematical Sciences at KAIST.
 
 Work experience
 ======
