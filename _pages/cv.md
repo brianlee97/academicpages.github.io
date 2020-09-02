@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -16,29 +16,32 @@ Education
 * B.S. in Mathematical Sciences, [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/), 2015.03 ~ Present.
   * Advisor: Prof. [Mikyoung Lim](https://www.mikyounglim.net/home).
   * Enrolled in Honor Program.
-  * Temporarily left school due to mandatory military service, 2018.10 ~ 2020.08.
+  * Temporarily left school for 2 years due to mandatory military service, 2018 Fall ~ 2020 Fall.
 * High School Education, Gyeongnam Science High School, 2013.03 ~ 2015.02.
   * Early Graduation with Honor.
   
+Publications
+======
+* 
+  
 Selected Awards & Honors
 ======
-* Excellence Award, [KAIST Math Problem Of the Week](https://mathsci.kaist.ac.kr/pow/), 2019.06.
+* Excellence Award, [KAIST Math Problem Of the Week](https://mathsci.kaist.ac.kr/pow/), 2019 Spring Semester.
   * Department of Mathematical Sciences at KAIST.
 * Silver Prize (for majors), 36th National Undergraduate Mathematics Competition, 2017.12.
   * Korean Mathematical Society.
-* Dean's List, 2017.09.
+* Dean's List, 2017 Spring Semester.
    * College of Natural Sciences at KAIST.
-* National Excellence Scholarship (Natural Sciences and Engineering), 2017.03 ~ Present.
+* National Excellence Scholarship (Natural Sciences and Engineering), 2017 Spring ~ Present.
    * Korea Student Aid Foundation.
-* Department Honor Scholarship ($1,000), 2017.03.
+* Department Honor Scholarship ($1,000), 2016 Fall Semester.
    * Department of Mathematical Sciences at KAIST.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Republic of Korea Air Force (ROKAF), 2018.10 ~ 2020.08.
+  * Mandatory Military Service.
+  * Worked as an aerographer and a charge of quarters.
   
 Skills
 ======
