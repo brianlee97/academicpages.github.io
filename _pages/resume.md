@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -17,12 +17,12 @@ Education
   * Advisor: Prof. [Mikyoung Lim](https://www.mikyounglim.net/home).
   * Enrolled in Honor Program.
   * Temporarily left school due to mandatory military service, 2018.10 ~ 2020.08.
-* Gyeongnam Science High School, 2013.03 ~ 2015.02.
+* High School Education, Gyeongnam Science High School, 2013.03 ~ 2015.02.
   * Early Graduation with Honor.
   
 Selected Awards & Honors
 ======
-* Excellence Award, KAIST Math Problem Of the Week, 2019.06.
+* Excellence Award, [KAIST Math Problem Of the Week](https://mathsci.kaist.ac.kr/pow/), 2019.06.
   * Department of Mathematical Sciences at KAIST.
 * Silver Prize (for majors), 36th National Undergraduate Mathematics Competition, 2017.12.
   * Korean Mathematical Society.
