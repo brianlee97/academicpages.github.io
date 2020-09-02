@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,17 +12,13 @@ author_profile: true
 {% include base_path %}
 
 
-Preprints
-======
+* Preprints
 
-* <ins>Jeonghwan Lee</ins>, Daesung Kim and Hye Won Chung, **Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE**, submitted. ([arxiv](https://arxiv.org/abs/2003.10038))  
+1. <ins>Jeonghwan Lee</ins>, Daesung Kim and Hye Won Chung, **Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE**, submitted. ([arxiv](https://arxiv.org/abs/2003.10038))  
 
-Peer-reviewed Conference Papers
-======
+* Peer-reviewed Conference Papers
 
-
-Journal Articles
-======
+* Journal Articles
 
 <!--
 {% for post in site.publications reversed %}
