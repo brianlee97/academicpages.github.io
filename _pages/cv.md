@@ -22,7 +22,7 @@ Education
   
 Publications
 ======
-* <ins>Jeonghwan Lee</ins>, Daesung Kim, Hye Won Chung, **Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE**, submitted. [(arXiv)](https://arxiv.org/pdf/2003.10038.pdf)
+* <ins>Jeonghwan Lee</ins>, Daesung Kim, Hye Won Chung, **Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE**, submitted. ([arxiv](https://arxiv.org/abs/2003.10038))
   
 Selected Awards & Honors
 ======
