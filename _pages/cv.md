@@ -39,13 +39,19 @@ Selected Awards & Honors
 
 Work experience
 ======
+
+* Undergraduate Student Researcher, School of Electrical Engineering at KAIST, 2018.06 ~ Present.
+  * Advisor: Prof. [Hye Won Chung](https://iids.kaist.ac.kr/home).
 * Republic of Korea Air Force (ROKAF), 2018.10 ~ 2020.08.
   * Mandatory Military Service.
   * Worked as an aerographer and a charge of quarters.
-* Undergraduate Research Intern, School of Electrical Engineering at KAIST, 2018.06 ~ Present.
   
 Skills
 ======
 
+* Programming Languages.
+  * C/C++, Java, Python.
+* Software & Tools.
+  * MATLAB, R, Excel, LaTeX.
 
 
