@@ -15,4 +15,4 @@ I am a senior undergraduate student at [Department of Mathematical Sceinces](htt
 
 Contact
 ------
-E-mail: <sa8seung@kaist.ac.kr>/<mathljh0323@gmail.com>
+E-mail: <sa8seung@kaist.ac.kr> / <mathljh0323@gmail.com>
