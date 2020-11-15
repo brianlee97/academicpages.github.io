@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a senior undergraduate student at [Department of Mathematical Sceinces](https://mathsci.kaist.ac.kr/home/) at [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/). My full CV is available [here](/files/CV_Brian.pdf). My research works can be found at [Publications](https://brianlee97.github.io/publications/).
+I am a senior undergraduate student at [Department of Mathematical Sceinces](https://mathsci.kaist.ac.kr/home/) at [KAIST](https://www.kaist.ac.kr/en/). My full CV is available [here](/files/CV_Brian.pdf). My research works can be found at [Publications](https://brianlee97.github.io/publications/).
 
 
 Research Interests
