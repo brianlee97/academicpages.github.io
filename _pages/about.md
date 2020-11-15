@@ -14,8 +14,8 @@ I am a senior undergraduate student at [Department of Mathematical Sceinces](htt
 Research Interests
 ------
 My research interests lie in the intersection of computation and statistics, including
-* Information theory.
-* High-dimensional statistics and statistical inference in networks.
+* Information theory and statistical inference in networks.
+* Theoretical and algorithmic aspects of high-dimensional statistics.
 * Optimization.
 
 Currently, I am especially interested in understanding trade-offs between statistical and computational limits in statistical estimation and learning problems.
