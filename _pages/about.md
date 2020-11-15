@@ -17,7 +17,8 @@ My research interests lie in the intersection of computation and statistics, inc
 * Information theory.
 * High-dimensional statistics and statistical inference in networks.
 * Optimization.
-Curretnly, I am especially interested in understanding trade-offs between statistical and computational limits in statistical estimation and learning problems.
+
+Currently, I am especially interested in understanding trade-offs between statistical and computational limits in statistical estimation and learning problems.
 
 
 Contact
