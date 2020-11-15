@@ -8,10 +8,17 @@ redirect_from:
 ---
 
 
-I am a senior undergraduate student at [Department of Mathematical Sceinces](https://mathsci.kaist.ac.kr/home/) at [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/). My research interests lie in the intersection of computation and statistics, including information theory, high-dimensional statistics, statistical inference in networks and optimization, and I am especially interested in understanding trade-offs between statistical and computational limits in statistical estimation and learning problems.
+I am a senior undergraduate student at [Department of Mathematical Sceinces](https://mathsci.kaist.ac.kr/home/) at [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/). My full CV is available [here](/files/CV_Brian.pdf). My research works can be found at [Publications](https://brianlee97.github.io/publications/).
 
-* My full CV is available [here](/files/CV_Brian.pdf).
-* My research works can be found at [Publications](https://brianlee97.github.io/publications/).
+
+Research Interests
+------
+My research interests lie in the intersection of computation and statistics, including
+* Information theory.
+* High-dimensional statistics and statistical inference in networks.
+* Optimization.
+Curretnly, I am especially interested in understanding trade-offs between statistical and computational limits in statistical estimation and learning problems.
+
 
 Contact
 ------
