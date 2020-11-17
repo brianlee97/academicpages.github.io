@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a senior undergraduate student at [Department of Mathematical Sceinces](https://mathsci.kaist.ac.kr/home/) at [KAIST](https://www.kaist.ac.kr/en/). My full CV is available [here](/files/CV_Brian.pdf). My research works can be found at [Publications](https://brianlee97.github.io/publications/).
+I am a senior undergraduate student at [Department of Mathematical Sceinces](https://mathsci.kaist.ac.kr/home/), [KAIST](https://www.kaist.ac.kr/en/). My full CV is available [here](/files/CV_Brian.pdf). My research works can be found at [Publications](https://brianlee97.github.io/publications/).
 
 
 Research Interests
@@ -17,6 +17,7 @@ My research interests lie in the intersection of computation and statistics, inc
 * Information theory and statistical inference in networks.
 * Theoretical and algorithmic aspects of high-dimensional statistics.
 * Optimization.
+* Sum-of-Squares hierarchy and its applications to algorithmic problems.
 
 Currently, I am especially interested in understanding trade-offs between statistical and computational limits in statistical estimation and learning problems.
 
