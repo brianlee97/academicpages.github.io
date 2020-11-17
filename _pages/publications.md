@@ -9,10 +9,8 @@ You can also find my papers on my <a href="https://scholar.google.com/citations?
 
 ## Journal Articles
 
-1. **Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE** 
-
-<ins>Jeonghwan Lee</ins>, Daesung Kim and [Hye Won Chung](https://iids.kaist.ac.kr)
-
+1. **Robust Hypergraph Clustering via Convex Relaxation of Truncated MLE** \
+<ins>Jeonghwan Lee</ins>, Daesung Kim and Hye Won Chung \
 *IEEE Journal on Selected Areas in Information Theory(JSAIT), Issue 3, Nov. 2020.* ([arXiv](https://arxiv.org/abs/2003.10038)|[IEEE link](https://ieeexplore.ieee.org/document/9257068))
 
 
